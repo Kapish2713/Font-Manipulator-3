@@ -1,0 +1,25 @@
+.heading
+{
+    font-size: 23px;
+  margin: 0;
+  width: 100%;
+  box-shadow: 5px 5px 5px aqua;  
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: gold;
+    bottom: 0;
+    width: 100%;
+    background-color: cyan;
+    line-height: 3;
+    text-align: center;
+    font-size: 20px;
+}
+
+canvas
+{
+background-color: blue ;
+color:green ;
+}
